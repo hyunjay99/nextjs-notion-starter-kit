@@ -17,7 +17,7 @@ html {
 
 font-family: 
 body {
-  --notion-font: "Spoqa Han Sans Neo", sans-serif;
+  --notion-font: "Spoqa Han Sans Neo", "sans-serif", sans-serif;
   font-family: var(--notion-font);
   overflow-x: hidden;
 }
